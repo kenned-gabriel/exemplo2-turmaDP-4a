@@ -29,3 +29,6 @@ git add .
 git commit -m "Texto com a descrição do que foi implementado"
 git push origin main
 ```
+![Git badge] ()
+ 
+![azera](./imagens/images.jpg)
